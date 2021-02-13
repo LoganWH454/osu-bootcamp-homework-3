@@ -1,1 +1,1 @@
-# osu-bootcamp-homework-3
+# Osu Bootcamp Homework 3
