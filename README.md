@@ -24,15 +24,14 @@ function getRandomSymbol() {
 ```
 ---
 
-
-
 ## Screen Shot of Deployed Application 
 
 ![Screen Shot of Deployed Application](screen-shot.jpeg)
 
 ---
+
 ## Link to Deployed Application 
 
-[Link to Deployed Application]()
+[Link to Deployed Application](https://loganwh454.github.io/osu-bootcamp-homework-3/)
 
 ---
